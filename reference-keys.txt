@@ -1,0 +1,16 @@
+tp-estadística-computacional
+números-primos
+probabilidad
+regresiones
+regresión-lineal-simple
+correlaciones
+regresión-puntos-2014-y-2015
+regresión-puntos-2015-e-inversión-absoluta
+regresión-puntos-2015-y-valor
+residuos-rl
+residuos-rl-pts_2014
+residuos-rl-inversión_abs
+residuos-rl-valor
+rl-multiple
+residuos-rlm
+conclusiones
